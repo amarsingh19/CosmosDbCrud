@@ -1,0 +1,11 @@
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\bin\Debug\netstandard2.0\Students.Domain.deps.json
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\bin\Debug\netstandard2.0\Students.Domain.dll
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\bin\Debug\netstandard2.0\Students.Domain.pdb
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\obj\Debug\netstandard2.0\Students.Domain.csprojAssemblyReference.cache
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\obj\Debug\netstandard2.0\Students.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\obj\Debug\netstandard2.0\Students.Domain.AssemblyInfoInputs.cache
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\obj\Debug\netstandard2.0\Students.Domain.AssemblyInfo.cs
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\obj\Debug\netstandard2.0\Students.Domain.dll
+C:\Users\amarjit.chana\Documents\Study\CosmosDbCrud\Students.Domain\obj\Debug\netstandard2.0\Students.Domain.pdb
