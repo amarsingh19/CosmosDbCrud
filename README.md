@@ -12,4 +12,4 @@
 
 ````
  
-> There is no UI for this but the apis can be called using the swagger UI
+> There is no UI for this but the apis can be called using the swagger UI. Run the app using IIS express and the default url should open up the swagger UI.
